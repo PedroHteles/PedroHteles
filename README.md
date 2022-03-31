@@ -4,4 +4,3 @@
 </div>
 
 <img height="180em" src="https://c.tenor.com/IvBIKwbv6VIAAAAC/orange-juice-meme-orange-juice.gif"/>
-<img  src="https://cdn.discordapp.com/attachments/530167122677071892/958885810277597234/G8jB.gif"/>
