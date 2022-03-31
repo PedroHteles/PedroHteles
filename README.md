@@ -1,3 +1,15 @@
 ### Hi there 👋
-![snake gif](https://github.com/PedroHteles/PedroHteles/blob/output/github-contribution-grid-snake.gif)
+- uses: Platane/snk@v1.1.0
+  with:
+    # github user name to read the contribution graph from (**required**)
+    # using action context var `github.repository_owner` or specified user
+    github_user_name: ${{ github.repository_owner }}
+
+    # path of the generated gif file
+    # If left empty, the gif file will not be generated
+    gif_out_path: dist/github-snake.gif
+
+    # path of the generated svg file
+    # If left empty, the svg file will not be generated
+    svg_out_path: dist/github-snake.svg
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroHteles&theme=tokyonight&show_icons=true)
