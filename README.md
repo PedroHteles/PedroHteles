@@ -1,15 +1,3 @@
 ### Hi there 👋
-- uses: Platane/snk@v1.1.0
-  with:
-    # github user name to read the contribution graph from (**required**)
-    # using action context var `github.repository_owner` or specified user
-    github_user_name: ${{ github.repository_owner }}
-
-    # path of the generated gif file
-    # If left empty, the gif file will not be generated
-    gif_out_path: dist/github-snake.gif
-
-    # path of the generated svg file
-    # If left empty, the svg file will not be generated
-    svg_out_path: dist/github-snake.svg
+![Snake animation](https://www.google.com/url?sa=i&url=https%3A%2F%2Fepocanegocios.globo.com%2FTecnologia%2Fnoticia%2F2021%2F11%2Fos-10-gifs-mais-usados-em-2021-segundo-giphy.html&psig=AOvVaw2FqGc_T9vdZyn22-5NnM0l&ust=1648772489437000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNCe-9rr7vYCFQAAAAAdAAAAABAD)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroHteles&theme=tokyonight&show_icons=true)
